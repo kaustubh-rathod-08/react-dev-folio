@@ -12,7 +12,7 @@ export const ProjectData = [
       "stripe-api",
       "graph-ql",
     ],
-    demo: "https://crwn-clive7.herokuapp.com/",
+    demo: "https://crwn7-clive.herokuapp.com/",
     github: "https://github.com/vedantyetekar7/crwn-clothing",
     image:
       "https://raw.githubusercontent.com/divanov11/portfolio-website/master/images/ecom.jpg",
