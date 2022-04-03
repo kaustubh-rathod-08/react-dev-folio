@@ -5,7 +5,7 @@ export const ProjectData = [
     about:
       "A full stack e-commerce application built with React, Redux, React Hooks, GraphQL, using Firebase and Stripe API, deployed with Heroku.",
     tags: [
-      "reactjs",
+      "react",
       "firebase",
       "redux",
       "react-hooks",
@@ -20,6 +20,17 @@ export const ProjectData = [
 
   {
     id: 2,
+    title: "Tesla Clone",
+    about:
+      "A clone of Tesla's stunning website made with React, Redux and Styled Components",
+    tags: ["react", "redux", "styled-components", "react-app", "clone"],
+    demo: "#",
+    github: "https://github.com/vedantyetekar7/tesla-clone",
+    image:
+      "https://user-images.githubusercontent.com/62868878/118962083-a16b8f80-b982-11eb-9bf3-3514a3e997f2.png",
+  },
+  {
+    id: 3,
     title: "Heart Disease Prediction",
     about:
       "This project aims to build a machine learning model using K-Nearest Neighbor, LogisticRegression, RandomForestClassifier to classify whether or not a person has heart disease based upon his medical attributes. (accuracy achieved : 88.52%)",
@@ -40,7 +51,7 @@ export const ProjectData = [
       "https://www.bhf.org.uk/-/media/new-site-images/what-we-do/research/research-successes/artificial_heart_770x510-ss-no-exp.jpg?rev=e24c460e92664caabb8daef53d9894cchttps://i.pinimg.com/originals/8e/6d/fe/8e6dfec5dd47bedf06ca7f74c77e4b14.png",
   },
   {
-    id: 3,
+    id: 4,
     title: "Bulldozer Price Prediction",
     about:
       "A machine learning project aiming to build a machine learning model which could predict the sales price of bulldozer.",
