@@ -24,7 +24,7 @@ export const ProjectData = [
     about:
       "A clone of Tesla's stunning website made with React, Redux and Styled Components",
     tags: ["react", "redux", "styled-components", "react-app", "clone"],
-    demo: "#",
+    demo: "https://teslaclnd.netlify.app/",
     github: "https://github.com/vedantyetekar7/tesla-clone",
     image:
       "https://user-images.githubusercontent.com/62868878/118962083-a16b8f80-b982-11eb-9bf3-3514a3e997f2.png",
