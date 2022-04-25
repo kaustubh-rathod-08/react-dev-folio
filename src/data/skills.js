@@ -1,18 +1,5 @@
 export const SkillsData = [
   {
-    type: "Backend",
-    list: [
-      {
-        name: "C++",
-        icon: <i class="devicon-cplusplus-plain colored"></i>,
-      },
-      {
-        name: "Python",
-        icon: <i class="devicon-python-plain"></i>,
-      },
-    ],
-  },
-  {
     type: "Frontend",
     list: [
       {
@@ -33,7 +20,19 @@ export const SkillsData = [
       },
     ],
   },
-
+  {
+    type: "Backend",
+    list: [
+      {
+        name: "C++",
+        icon: <i class="devicon-cplusplus-plain colored"></i>,
+      },
+      {
+        name: "Python",
+        icon: <i class="devicon-python-plain"></i>,
+      },
+    ],
+  },
   {
     type: "Tools",
     list: [
